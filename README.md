@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @BenniLoebner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game art
+- 🌱 I’m currently in grade 10 at a Gymnasium
+
+To look at some of the things that I love doing please have a look at
+- :space_invader: [My first computer game](https://github.com/BenniLoebner/GetBiggerTest)
+- :art: [Some of my posters and animations](https://github.com/BenniLoebner/Portfolio)
 
 <!---
 BenniLoebner/BenniLoebner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
